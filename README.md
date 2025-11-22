@@ -17,7 +17,6 @@ It showcases my skills, projects, and contact information in a clean, profession
 - JavaScript  
 
 ## Live Preview
-(Add this after deploying) 
 https://harikaponnamanda.github.io/portfolio/
 
 ## Author
